@@ -1,6 +1,6 @@
 // Hello Dart
-// TODO: add a runnable example demonstrating this concept
+// Every Dart program starts execution from the top-level main() function.
 
 void main() {
-  // TODO
+  print('Hello, Dart!');
 }
